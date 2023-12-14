@@ -3,8 +3,6 @@ import java.text.DecimalFormat;
 import java.util.Stack;
 
 public class Interpreter {
-
-    /// ADD RULES TO OUTPUT AND ADD OPERATORS TO STACK BEFORE APPLYING!
        public static void main(String[] args) {
             // Input example from Practical
             String input = "4.3 25 + 1.7 2 * - 3.2 /";
